@@ -1,5 +1,6 @@
 # Shafikov Artur
 ### Junior FullStack Developer
+---
 ### Contact information
 
 __VK__: https://vk.com/id153467024
