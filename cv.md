@@ -69,6 +69,7 @@ elif sys.argv[1] == '-123':
 At the moment, my experience includes :
 + Layout for production
 + Creating a turnkey website, a link to the website - https://xn-----8kcasdvc1a1ahvu0e5d.xn--p1ai/
++ A little design experience in Figma
 ---
 ### Languages:
 
