@@ -6,9 +6,11 @@ https://Mibzor.github.io/rsschool-cv/cv
 ## Junior FullStack Developer
 ## Contact information
 
-VK: https://vk.com/id153467024
-Telegram: @Melovkas
-E-mail: Mibzor@yandex.ru
+_VK_: https://vk.com/id153467024
+
+_Telegram_: @Melovkas
+
+_E-mail_: Mibzor@yandex.ru
 
 ---
 ## Briefly About Myself:
@@ -19,6 +21,7 @@ GameDev
 FrontEnd
 BackEnd
 At the moment, my goal is to study web development in depth. I want to understand qualitatively and deeply how web applications are built. To study both the technology of building websites and its promotion, the importance for a person, business. For me, building websites is not just writing code and exchanging time for money. Websites are an opportunity to influence people, an opportunity to make their lives effective and fun.
+
 ---
 ## Skills and Proficiency:
 + HTML5, CSS3
