@@ -3,8 +3,9 @@
 https://Mibzor.github.io/rsschool-cv/cv
 
 # Shafikov Artur
-## Junior FullStack Developer
-## Contact information
+### Junior FullStack Developer
+Contact information
+======
 
 _VK_: https://vk.com/id153467024
 
@@ -13,7 +14,7 @@ _Telegram_: @Melovkas
 _E-mail_: Mibzor@yandex.ru
 
 ---
-## Briefly About Myself:
+### Briefly About Myself:
 
 I am a lover of new things and do different, but computer-related things. At first. I am studying the basics of circuit engineering in college. I'm learning how to design devices and assemble them. At a more applied level, I studied such areas as:
 GameDev
@@ -23,7 +24,7 @@ BackEnd
 At the moment, my goal is to study web development in depth. I want to understand qualitatively and deeply how web applications are built. To study both the technology of building websites and its promotion, the importance for a person, business. For me, building websites is not just writing code and exchanging time for money. Websites are an opportunity to influence people, an opportunity to make their lives effective and fun.
 
 ---
-## Skills and Proficiency:
+### Skills and Proficiency:
 + HTML5, CSS3
 + JS, C#, Python, C++, Assembler
 + Node js, Express js
@@ -32,7 +33,7 @@ At the moment, my goal is to study web development in depth. I want to understan
 + HTTP, DNS and other...
 + db, Postgre
 ---
-## Code example:
+### Code example:
 
 Connect to db 
 ```
@@ -66,6 +67,6 @@ elif sys.argv[1] == '-123':
         count += 1
 ```
 ---
-## Languages:
+### Languages:
 + Russia (home)
 + English
