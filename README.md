@@ -4,14 +4,13 @@ https://Mibzor.github.io/rsschool-cv/cv
 
 # Shafikov Artur
 ### Junior FullStack Developer
-Contact information
-======
+###Contact information
 
-_VK_: https://vk.com/id153467024
+__VK__: https://vk.com/id153467024
 
-_Telegram_: @Melovkas
+__Telegram__: @Melovkas
 
-_E-mail_: Mibzor@yandex.ru
+__E-mail__: Mibzor@yandex.ru
 
 ---
 ### Briefly About Myself:
