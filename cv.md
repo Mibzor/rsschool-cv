@@ -21,6 +21,7 @@ At the moment, my goal is to study web development in depth. I want to understan
 
 ---
 ### Skills and Proficiency:
+
 + HTML5, CSS3
 + JS, C#, Python, C++, Assembler
 + Node js, Express js
@@ -63,7 +64,14 @@ elif sys.argv[1] == '-123':
         count += 1
 ```
 ---
+### Work experience
+
+At the moment, my experience includes :
++ Layout for production
++ Creating a turnkey website, a link to the website - https://xn-----8kcasdvc1a1ahvu0e5d.xn--p1ai/
+---
 ### Languages:
+
 + Russia (home)
 + English
 
