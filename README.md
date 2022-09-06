@@ -3,14 +3,13 @@
 https://Mibzor.github.io/rsschool-cv/cv
 
 # Shafikov Artur
----
 ## Junior FullStack Developer
----
 ## Contact information
 
 VK: https://vk.com/id153467024
 Telegram: @Melovkas
 E-mail: Mibzor@yandex.ru
+
 ---
 ## Briefly About Myself:
 
@@ -31,6 +30,7 @@ At the moment, my goal is to study web development in depth. I want to understan
 + db, Postgre
 ---
 ## Code example:
+
 Connect to db 
 ```
 const { Sequelize } = require('sequelize')
