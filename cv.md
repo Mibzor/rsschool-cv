@@ -32,36 +32,12 @@ At the moment, my goal is to study web development in depth. I want to understan
 ---
 ### Code example:
 
-Connect to db:
+Codewars Task
 ```
-const { Sequelize } = require('sequelize')
+function multiply(a, b){
+  return a * b
+}
 
-module.exports = new Sequelize(
-   process.env.DB_NAME,
-   process.env.DB_USER,
-   process.env.DB_PASSWORD,
-   {
-      dialect: 'postgres',
-      host: process.env.DB_HOST,
-      port: process.env.DB_PORT,
-   }
-)
-```
-This program renames files in a folder:
-```
-folder = input('enter folder with photos :  ')
-
-if sys.argv[1] == '-people':
-    for image in os.listdir(path=folder):
-        count = input('Name?')
-        rash = image[-3:]
-        os.rename(folder + '\\' + image, folder + '\\' + str(count) + '.' + rash)
-elif sys.argv[1] == '-123':
-    count = 1
-    for image in os.listdir(path=folder):
-        rash = image[-3:]
-        os.rename(folder + '\\' + image, folder + '\\' + str(count) + '.' + rash)
-        count += 1
 ```
 ---
 ### Work experience
